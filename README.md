@@ -2,6 +2,14 @@
 
 A simple, user-friendly GUI tool to export your Telegram chat history into readable `.txt` or `.json` files.
 
+## 📸 Screenshots
+Here's a look at the two available interfaces.
+
+
+**Modern** (`PyQt6`)                       and                           	**Classic** (`Tkinter`)
+
+![PyQt6](https://github.com/Purple-Palm/Telethon-Chat-Dumper/blob/6dba5b8e138f4ff67219a3d0b34c7d4a68106dca/assets/images/python_OXixIzD0xd.png)![Tkinter](https://github.com/Purple-Palm/Telethon-Chat-Dumper/blob/6dba5b8e138f4ff67219a3d0b34c7d4a68106dca/assets/images/python_S2uDkJ35jT.png)
+
 ## ✨ Features
 * **Easy to Use:** A clean graphical interface means no command-line knowledge is required.
 
@@ -12,13 +20,6 @@ A simple, user-friendly GUI tool to export your Telegram chat history into reada
 * **Standalone Executable:** No need to install Python or any libraries. Just download and run the .exe from the releases page.
 
 * **Two UI Flavors:** Choose between a classic, lightweight interface (Tkinter) or a modern, stylish one (PyQt6).
-
-## Versions
-This repository contains two versions of the application:
-
-1. **PyQt6 Version (**`telegram_dumper_pyqt6.py`**):** A modern, feature-rich interface with a polished look and feel. Recommended for most users.
-
-2. **Tkinter Version (**`telegram_dumper_tkinter.py`**):** A lightweight, classic interface using Python's built-in library. It's simple and gets the job done without extra dependencies.
 
 ## 🚀 Getting Started
 There are two ways to use this application.
